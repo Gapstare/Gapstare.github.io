@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="DC.Title" content="Nova nekropola">
+  <meta name="DC.Creator" content="K. Ola Ekström">
+  <meta name="DC.Subject" content="poesi">
+  <meta name="DC.Subject" content="poetry">
+  <meta name="DC.Description" content="Diktsamlingen Nova Nekropola av Ola Ekström i html5-format. Utgiven 2019 av Drömland Media.">
+  <meta name="DC.Publisher" content="Drömland Media">
+  <meta name="DC.Date" content="2019">
+  <meta name="DC.Type" content="Text">
+  <meta name="DC.Format" content="text/html">
+  <meta name="DC.Identifier" content="ISBN:978-91-981968-2-5">
+  <meta name="DC.Source" content="https://archive.org/details/ola_ekstrom_-_nova_nekropola">
+  <meta name="DC.Language" content="sv">
+  <meta name="DC.Rights" content="Ola Ekström, CC BY-SA 2019">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
+  <style>
+  @media only screen and (min-width: 1024px) {
+    /* För desktop. */
+    body { width: 900px; }
+  }
+
+  body {
+    background: #f8f9fe;
+    margin-left: 3%;
+    font-family: serif;
+    font-size: large;
+  }
+
+  h2 { margin-top: 2.5em; }
+
+  hr { margin-top: 4em; }
+  
+  </style>
+</head>
+<body>
+  <main class="container">
+    $body$
+  </main>
+
+</body>
+</html>
