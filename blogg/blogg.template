@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Sans+Mono">
+  <link rel="stylesheet" type="text/css" href="blogg.css">
+</head>
+<body>
+  <main class="container">
+    $body$
+  </main>
+
+  <hr>
+  <small><em>Ola Ekström (overlord&nbsp;&#x24d0;olaekstrom.de)&nbsp;<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width: 80px; border-width:0;" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a></em></small>
+
+</body>
+</html>
