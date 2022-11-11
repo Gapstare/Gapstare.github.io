@@ -4,9 +4,9 @@
 }
 
 body {
-    background: #002759;
-    background-image: linear-gradient(#002759, #00478B);
-    background-attachment: fixed;
+  background: #002759;
+  background-image: linear-gradient(#002759, #0049a6);
+  background-attachment: fixed;
   color: #00ffd2;
   margin-left: 3%; margin-right: 3%;
   font-family: dejavuFont, monospace;
@@ -70,7 +70,7 @@ img {
 /* dokumentets egentliga body */
 div#main {
     background: #001c40; color: #00ffd2;
-    border: 3px solid #003273;
+    border: hidden;
     border-collapse: collapse;
     border-radius: 15px;
 }
