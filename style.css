@@ -4,10 +4,7 @@
 }
 
 body {
-  background: #002759;
-  background-image: linear-gradient(#002759, #0049a6);
-  background-attachment: fixed;
-  color: #00ffd2;
+  background: #123159; color: #33ffdb;
   margin-left: 3%; margin-right: 3%;
   font-family: dejavuFont, monospace;
 }
@@ -69,8 +66,8 @@ img {
 
 /* dokumentets egentliga body */
 div#main {
-    background: #001c40; color: #00ffd2;
-    border: hidden;
+    background: #0d2340; color: #33ffdb;
+    border: 3px solid #173f73;
     border-collapse: collapse;
     border-radius: 15px;
 }
@@ -115,7 +112,7 @@ dt {
 }
 
 .datum {
-    color: #002759;
+    color: #123159;
     background-color: #c43f90;
 }
 
