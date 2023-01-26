@@ -113,11 +113,6 @@ figcaption {
    font-size: 70%;
 }
 
-.datum {
-    color: #002759;
-    background-color: #c43f90;
-}
-
-.htag {
-    color: #fafad2;
+span.small {
+  font-size: smaller;
 }
