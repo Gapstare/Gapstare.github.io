@@ -119,3 +119,11 @@ dt {
 .htag {
     color: #fafad2;
 }
+
+section.footnotes {
+  font-size: smaller;
+}
+
+span.small {
+  font-size: smaller;
+}
