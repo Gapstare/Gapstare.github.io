@@ -111,6 +111,11 @@ dt {
    margin-left: 3%;
 }
 
+figcaption {
+  font-size: smaller;
+  font-style: italic; 
+}
+
 .datum {
     color: #123159;
     background-color: #c43f90;
@@ -118,10 +123,6 @@ dt {
 
 .htag {
     color: #fafad2;
-}
-
-section.footnotes {
-  font-size: smaller;
 }
 
 span.small {
